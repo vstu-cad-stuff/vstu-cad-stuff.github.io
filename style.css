@@ -19,27 +19,15 @@ body {
   margin-left: -10px;
   display: inline-block;
   vertical-align: middle;
-}
-
-#path a {
   font-size: 25pt;
   color: #000;
-  text-decoration: none;
   font-family: 'Roboto Slab', serif;
-}
-
-#path a:hover {
-  opacity: 0.5;
 }
 
 #logo {
   width: 100px;
   vertical-align: middle;
   margin-top: 15px;
-}
-
-#logo:hover {
-	opacity: 0.5;
 }
 
 hr {
